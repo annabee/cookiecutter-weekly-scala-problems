@@ -1,0 +1,7 @@
+{
+    "project_name": "my-project",
+    "sbt_version": "0.13.11",
+    "scala_version": "2.10.4",
+    "package_name": "{{ cookiecutter.project_name|lower|replace('-', '')|replace(' ', '.') }}",
+    "package_path": "{{ cookiecutter.package_name|replace('.', '/') }}"
+}
