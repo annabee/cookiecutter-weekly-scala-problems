@@ -17,4 +17,9 @@ This template creates a simple Scala project with the following libraries:
   - `pip3 install cookiecutter --user`
 - Create a starter project
   - `~/Library/Python/3.7/bin/cookiecutter https://github.com/elsevier-big-data/cookiecutter-weekly-scala-problems.git`
-- TBD
+- Accept the defaults or customise as you see fit
+- Move into the directory where the project was created
+  - `cd my-project`
+- Open IntelliJ
+  - `idea .`
+- Hack away!
